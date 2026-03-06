@@ -1,0 +1,15 @@
+Aqui estão os destaques do que foi implementado:
+Identidade Visual e Tipografia:
+Configurei as fontes Playfair Display (Serifada para títulos, transmitindo elegância) e Montserrat (Sans-Serif para o corpo do texto, garantindo ótima legibilidade).
+A paleta de cores utiliza o fundo Branco Neve (#FAFAFA), textos em Grafite (#222222) e detalhes de destaque em Terracota (#B85C38) e Verde Oliva (#5A5A40).
+Estrutura de Conteúdo (Seções):
+Cabeçalho (Header): Fixo no topo (sticky), com fundo transparente que se torna sólido e com desfoque (blur) ao rolar a página. Inclui um menu responsivo para dispositivos móveis.
+Hero Section: Imagem de fundo imersiva com um título de impacto e botões de ação (CTA) direcionando para os projetos e para a seção "Sobre".
+Sobre: Layout limpo com uma foto de perfil (com efeito preto e branco que ganha cor ao passar o mouse) e um botão preparado para o download do Currículo em PDF.
+Habilidades (Softwares): Um grid visual com badges mostrando o nível de domínio em ferramentas como AutoCAD, SketchUp, Revit, V-Ray, etc.
+Portfólio (Projetos): A seção principal conta com um sistema de filtros interativos (Residencial, Comercial, Interiores, Urbanismo). Os cartões dos projetos possuem imagens com efeito de zoom suave ao passar o mouse.
+Rodapé (Footer): Informações de direitos autorais e links para redes sociais (Instagram, LinkedIn, E-mail).
+Diferenciais Técnicos:
+Animações de Scroll: Utilizei a biblioteca motion/react para criar animações suaves de entrada (Reveal on Scroll) conforme o recrutador desce a página.
+Botão do WhatsApp: Um botão flutuante no canto inferior direito, sempre visível para facilitar o contato rápido.
+Design Responsivo: O layout se adapta perfeitamente a celulares, tablets e monitores grandes, utilizando CSS Grid e Flexbox.
